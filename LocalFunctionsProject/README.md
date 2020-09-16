@@ -13,7 +13,7 @@ pass a parameter into the link with ```?name=Function```
 
 ## build n test
 
-1. build - ```docker build --tag dylankentish/azurefunctionsimage:v1.0.0 .```
+1. build - ```docker build --tag dylankentish/azurefunctionsimage:v1.0.0 .``` - REQUIRES THE EXTRA DOT!
 2. run - ```docker run -p 8080:80 -it <docker_id>/azurefunctionsimage:v1.0.0```
 3. close -  Ctrl+C.
 
