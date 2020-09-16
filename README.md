@@ -96,3 +96,17 @@ docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourStrong(!)Password' -p 1433:143
 
 See <https://docs.docker.com/config/containers/container-networking/>
 
+## READING
+
+Reading
+Domain Analysis
+
+<https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis>
+
+Google App Engine
+
+<https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine>
+
+Serverless vs containers
+
+<https://www.cloudflare.com/learning/serverless/serverless-vs-containers/>
